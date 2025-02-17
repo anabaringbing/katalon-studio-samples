@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_simpan</name>
+   <tag></tag>
+   <elementGuidId>01cc2972-2933-4f2a-a18e-ed4a4ac9ac53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.bg-green-500.text-white.p-1.ml-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[2]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Simpan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fad2b1b5-1127-4dee-9a16-7edcf12539cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-green-500 text-white p-1 ml-2</value>
+      <webElementGuid>5b11498a-a2d8-4402-a329-e43f35ae6b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan</value>
+      <webElementGuid>58f63279-bbbf-42ca-bd4e-be0069f7e828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;geist_6feb203d-module__8DQF1a__variable geist_mono_c7d183a-module__ZW1U4G__variable antialiased&quot;]/div[@class=&quot;container mx-auto p-4&quot;]/ul[1]/li[@class=&quot;mb-2 flex justify-between&quot;]/button[@class=&quot;bg-green-500 text-white p-1 ml-2&quot;]</value>
+      <webElementGuid>95064abc-eb78-4271-be88-57bc9779e690</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[2]/following::button[1]</value>
+      <webElementGuid>4e979cd5-47da-451c-9e58-39eccbd8e51f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::button[2]</value>
+      <webElementGuid>8a16b9c6-dab7-4c76-8f67-701d76b74b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='item 4'])[1]/preceding::button[1]</value>
+      <webElementGuid>cf37f32e-9f85-48d4-824b-bd20d3f9742e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[3]/preceding::button[1]</value>
+      <webElementGuid>e52022de-9095-47e0-8c1a-8427015b61ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
+      <webElementGuid>e7514d2f-e81f-4065-9e93-4a1c87b3c2e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/button</value>
+      <webElementGuid>e5bf8145-5696-4e48-8b09-137236e44cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>b2f103ac-fc6e-4c35-aa7e-40a407f3e222</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

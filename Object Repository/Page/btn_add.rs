@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_add</name>
+   <tag></tag>
+   <elementGuidId>b98d2210-f2e0-46b6-a05d-e1f937011a7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.bg-blue-500.text-white.p-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='CRUD Static tanpa Database'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Tambah&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>323bfe08-bbda-429e-81ef-4791c1ae69c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-blue-500 text-white p-2</value>
+      <webElementGuid>7d465760-8e44-4df1-b369-59b6efec9c60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah</value>
+      <webElementGuid>da98a819-71b9-4840-bdb3-7223c564bd2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;geist_6feb203d-module__8DQF1a__variable geist_mono_c7d183a-module__ZW1U4G__variable antialiased&quot;]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;mb-4&quot;]/button[@class=&quot;bg-blue-500 text-white p-2&quot;]</value>
+      <webElementGuid>d81a70fc-8a6c-4400-9e9f-b55f53544326</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRUD Static tanpa Database'])[1]/following::button[1]</value>
+      <webElementGuid>ae715edb-588e-4ac8-beb8-d9ecebbbaef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item 1'])[1]/preceding::button[1]</value>
+      <webElementGuid>a1fbb8b4-3dca-4c36-ae12-4f92b109afa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::button[1]</value>
+      <webElementGuid>1ac84ed5-105f-434a-b7d3-e54d26a443bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah']/parent::*</value>
+      <webElementGuid>5c0b194a-cc24-4780-8cfb-33ab190c8b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>efd0c700-7516-4798-a25f-228e28f47936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Tambah' or . = 'Tambah')]</value>
+      <webElementGuid>449aa23f-701f-4a32-9b89-998714e04e56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
