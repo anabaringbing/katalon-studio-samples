@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost:3000/')
+WebUI.navigateToUrl('http://192.168.229.1:3000/')
 
 WebUI.maximizeWindow()
 
